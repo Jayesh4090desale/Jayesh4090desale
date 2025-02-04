@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Jayesh</h1>
 <h3 align="center">🚀 Full Stack Developer | B.Tech in E&TC</h3>
 
-<p align="center">
+<p align="center"
   <img src="https://komarev.com/ghpvc/?username=jayeshdesale94&label=Profile%20Views&color=0e75b6&style=flat" alt="jayeshdesale94" />
 </p>
 
 ---
 
-### 👨‍💻 About Me:
-- 🌱 I’m currently pursuing **B.Tech in E&TC**  
-- 💡 Passionate about **Full Stack Development, Cloud Computing & Problem Solving**  
-- 🔭 I’m working on **MERN & DevOps projects**  
-- 📫 Reach me at **jayeshrcpit2003@gmail.com**  
+## 👨‍💻 About Me
+- 🌱 Currently pursuing **B.Tech in E&TC**  
+- 💡 Passionate about **Full Stack Development, Cloud Computing, Robotics & Automation**  
+- 🔭 Working on **MERN,  & .NET projects**  
+- 💪 Intern at **Bajaj Auto - Bajaj Skill Trainer Centre Pune**  
+- 💪 Graduate Trainee Engineer at **Symbiosis International University**  
+- 💎 Strong knowledge in **Python, Java, .NET, SQL C#,MVC, Robotics & Automation**  
+- 📧 Reach me at **jayeshrcpit2003@gmail.com**  
 
 ---
 
