@@ -88,20 +88,42 @@ const jayesh = {
 <tr>
 <td width="50%">
 
-### 🏢 Symbiosis International University
-**Graduate Trainee Engineer**
-- Working on industrial automation projects
-- Hands-on with PLCs, Robotics & IoT
-- Implementing Industry 4.0 solutions
+### 🏢 Symbiosis International University  
+**Graduate Trainee Engineer**  
+*Jan 2025 – Present*  
+- Working on industrial automation projects  
+- Hands-on with PLCs, Robotics & IoT  
+- Implementing Industry 4.0 solutions  
+
+### 💻 Code Dot Solution, Pune  
+**Intern – .NET Developer**  
+*Jan 2025 – Mar 2025*  
+- Developed modules using ASP.NET Core MVC  
+- Built a **Personal Expense Tracker** with CRUD (SQL + EF Core)  
+- Worked with API integration & MVC architecture  
 
 </td>
 <td width="50%">
 
-### 🏭 Bajaj Auto - Skill Trainer Centre
-**Intern**
-- Training in automation & robotics
-- Learning advanced manufacturing tech
-- Working with industrial equipment
+### 🏭 Bajaj Auto – Skill Training Centre  
+**Intern – Automation & Robotics**  
+*Jul 2024 – Sep 2024*  
+- Training in automation & robotics  
+- Hands-on with industrial robots  
+- Python, Machine Learning 
+
+### 🖥️ R3 Systems India Pvt. Ltd  
+**Java Developer Intern**  
+*May 2024 – Jul 2024*  
+- Worked on web application development  
+- Used **Core Java & Advanced Java** (Servlets, JSP, JDBC)  
+- Built reusable modules & improved backend logic  
+
+### 🏆 Smart India Hackathon  
+**Intra-college Winner (Top 3 Rounds Cleared)**  
+- Developed a **Domestic Waste Management System** for Kerala Govt  
+- Contributed **40–50% of the project**  
+- Built web modules with real-time monitoring features  
 
 </td>
 </tr>
