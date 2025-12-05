@@ -93,7 +93,10 @@ const jayesh = {
 *Jan 2025 – Present*  
 - Working on industrial automation projects  
 - Hands-on with PLCs, Robotics & IoT  
-- Implementing Industry 4.0 solutions  
+- Implementing Industry 4.0 solutions
+
+
+
 
 ### 💻 Code Dot Solution, Pune  
 **Intern – .NET Developer**  
