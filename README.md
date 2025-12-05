@@ -266,6 +266,10 @@ Autonomous cleaning robot with:
 | 🎓 **NPTEL Certification** | 2024 | IoT Course by IIT Kanpur |
 
 </div>
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
