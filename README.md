@@ -90,10 +90,11 @@ const jayesh = {
 
 ### 🏢 Symbiosis International University  
 **Graduate Trainee Engineer**  
-*Jan 2025 – Present*  
+*Jan 2025 – Aug 2025*  
 - Working on industrial automation projects  
-- Hands-on with PLCs, Robotics & IoT  
-- Implementing Industry 4.0 solutions
+- Hands-on with PLCs, Robotics & IoT
+- Python, Machine Learning
+
 
 
 
@@ -107,13 +108,6 @@ const jayesh = {
 
 </td>
 <td width="50%">
-
-### 🏭 Bajaj Auto – Skill Training Centre  
-**Intern – Automation & Robotics**  
-*Jul 2024 – Sep 2024*  
-- Training in automation & robotics  
-- Hands-on with industrial robots  
-- Python, Machine Learning 
 
 ### 🖥️ R3 Systems India Pvt. Ltd  
 **Java Developer Intern**  
