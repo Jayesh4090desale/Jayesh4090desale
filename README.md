@@ -1,107 +1,88 @@
-<div align="center">
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hi, I'm Jayesh Desale
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jayesh%20Desale&fontSize=42&fontAlignY=30&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=51&descAlign=50&animation=twinkling" />
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Developer+%7C+.NET+%26+MERN+Stack;⚡+Problem+Solver+%7C+Tech+Enthusiast;🤖+Robotics+%26+Automation+Engineer;💻+Building+Scalable+Web+Applications" alt="Typing Animation" />
+</h2>
 
-<!-- Animated Typing Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full+Stack+Developer+%7C+.NET+%26+MERN+Expert;Building+Scalable+Web+Applications+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
-
-<br/>
-
-<!-- Profile Views & Social Badges -->
+<!-- Visitors Counter & Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jayesh4090desale&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Jayesh4090desale?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Jayesh4090desale?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" alt="Total Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Jayesh4090desale&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Jayesh4090desale?label=Followers&style=flat&color=blue&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Jayesh4090desale?label=Stars&style=flat&color=yellow&logo=github" alt="Total Stars" />
 </p>
 
-<!-- Social Links with Animated Hover Effects -->
+<!-- Portfolio & Resume Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/jayesh-desale-99533b273" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:jayeshrcpit2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/Jayesh4090desale" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.codechef.com/users/jayeshdesale94" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a>
   <a href="https://current-portfolio-sable.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio" height="35"/>
+  </a>
+  <a href="https://drive.google.com/your-resume-link" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Resume-Download-blue?style=for-the-badge&logo=google-drive" alt="Resume"/>
   </a>
 </p>
 
-</div>
-
-<br/>
-
-<!-- Animated GIF Section -->
-<img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-## 🚀 About Me
-
-```javascript
-const jayesh = {
-    location: "Shirpur, Maharashtra, India 🇮🇳",
-    education: "B.Tech in Electronics & Telecommunication",
-    role: "Full Stack Developer",
-    currentCompany: ["Symbiosis International University", "Bajaj Auto"],
-    
-    workingOn: {
-        frontend: ["React.js", "Next.js", "Tailwind CSS"],
-        backend: ["ASP.NET Core", "Node.js", "Express.js"],
-        databases: ["SQL Server", "MongoDB", "MySQL"]
-    },
-    
-    languages: ["JavaScript", "C#", "Java", "Python", "C++"],
-    
-    interests: [
-        "🌐 Full Stack Development",
-        "☁️ Cloud Computing (AWS)",
-        "🤖 Robotics & Automation",
-        "🧠 Machine Learning",
-        "📱 Mobile App Development"
-    ],
-    
-    currentlyLearning: ["Microservices", "Docker", "Kubernetes"],
-    
-    askMeAbout: ["Web Dev", "APIs", "Database Design", "Problem Solving"],
-    
-    funFact: "I debug with console.log() and I'm proud of it! 🐛💻",
-    
-    portfolio: "https://current-portfolio-sable.vercel.app/",
-    
-    contactMe: "jayeshrcpit2003@gmail.com"
-};
-```
-
-<br clear="right"/>
+<!-- Coding GIF -->
+<img align="right" alt="coding" width="380" src="https://cdn.openart.ai/published/yFa3D8dZlShILMLMygbl/lBW7W9WR_-HQZ_raw.jpg" />
 
 ---
 
-## 💼 Professional Experience
+### 👨‍💻 About Me  
+- 🎓 **B.Tech in Electronics & Telecommunication** | R. C. Patel Institute of Technology  
+- 💼 **Graduate Trainee Engineer** at Symbiosis International University  
+- 🏢 **Intern** at Bajaj Auto - Bajaj Skill Trainer Centre Pune  
+- 💻 **Full Stack Developer** specializing in .NET Core & MERN Stack  
+- 🤖 Passionate about **Robotics, Automation & Industry 4.0**  
+- 📧 Email: [jayeshrcpit2003@gmail.com](mailto:jayeshrcpit2003@gmail.com)  
+- 🌐 Portfolio: [current-portfolio-sable.vercel.app](https://current-portfolio-sable.vercel.app)  
+
+---
+
+### 💼 Professional Experience
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏢 Symbiosis International University
-**Graduate Trainee Engineer**
-- Working on industrial automation projects
-- Hands-on with PLCs, Robotics & IoT
-- Implementing Industry 4.0 solutions
+#### 🏢 **Code Dot Solution** | Pune
+**DOT NET Developer Intern**  
+📅 *Jan 2025 - Mar 2025*
+- Built Expense Tracker with ASP.NET Core MVC
+- Implemented CRUD operations with EF Core
+- Designed authentication systems
 
 </td>
 <td width="50%">
 
-### 🏭 Bajaj Auto - Skill Trainer Centre
-**Intern**
-- Training in automation & robotics
-- Learning advanced manufacturing tech
-- Working with industrial equipment
+#### 🏭 **R3 SYSTEMS INDIA PVT. LTD**
+**Java Developer Intern**  
+- Web application development
+- Core & Advanced Java implementation
+- Backend logic optimization
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🎓 **Symbiosis International University**
+**Graduate Trainee Engineer**  
+- Industrial automation projects
+- PLCs, Robotics & IoT systems
+- Industry 4.0 solutions
+
+</td>
+<td width="50%">
+
+#### 🏭 **Bajaj Auto - Skill Trainer Centre**
+**Intern | Automation & Robotics**  
+- Industrial automation training
+- Advanced manufacturing tech
+- Equipment handling & maintenance
 
 </td>
 </tr>
@@ -109,53 +90,99 @@ const jayesh = {
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,java,python,cpp,c&theme=dark" />
-</p>
-
-### 🎨 Frontend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind,materialui,jquery&theme=dark" />
-</p>
-
-### ⚙️ Backend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,spring,hibernate&theme=dark" />
-</p>
-
-### 🗄️ Databases & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis,aws,azure&theme=dark" />
-</p>
-
-### 🔧 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio,eclipse,maven,npm&theme=dark" />
+### 🚀 Coding Credentials
+<p align="left">
+  <a href="https://leetcode.com/u/your-username/" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/your-username/" target="blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+  <a href="https://www.codechef.com/users/jayeshdesale94" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jayesh-desale-99533b273" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+### 🛠 Tech Stack & Tools
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jayesh4090desale&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Jayesh's GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayesh4090desale&theme=react&hide_border=true&stroke=0d1117&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
+#### 💻 **Programming Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh4090desale&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jayesh4090desale&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</div>
+#### 🎨 **Frontend Development**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+</p>
+
+#### ⚙️ **Backend & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/ASP.NET-%23008000.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET_Core-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSP-%23007396.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Servlet-%23A44200.svg?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+#### 🗄️ **Databases & Cloud**
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
+
+#### 🔧 **Tools & Platforms**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Analytics  
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jayesh4090desale&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+
+  <!-- GitHub Stats & Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayesh4090desale&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh4090desale&layout=compact&theme=radical&hide_border=true" height="165" />
+  
+</div>
+
+<div align="center">
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=Jayesh4090desale&theme=radical&hide_border=true" height="165" />
+
+</div>
+
+<div align="center">
+
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayesh4090desale&bg_color=0d1117&color=00cfff&line=00e5ff&point=009dff&area=true&hide_border=true" height="250" />
+
 </div>
 
 ---
@@ -164,76 +191,12 @@ const jayesh = {
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 EShopper - E-Commerce Platform
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-Admin-focused e-commerce platform with:
-- 🔐 Secure Authentication & Authorization
-- 📦 Product & Order Management
-- 🛍️ Shopping Cart Functionality
-- 💳 Payment Integration
-
-[🔗 View Project](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 Student Management System
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-
-Full-stack application featuring:
-- 👥 Student & Course Management
-- 🔑 Role-based Access Control
-- 🔄 RESTful API Architecture
-- ⚡ Real-time Data Updates
-
-[🔗 View Project](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💰 Expense Tracker
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-5C2D91?style=flat-square)
-
-Personal finance management app with:
-- 📊 Monthly Financial Insights
-- 💸 Expense & Category Management
-- 📈 Visual Reports & Analytics
-- 🔒 Secure User Authentication
-
-[🔗 View Project](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Wireless Floor Cleaner Robot
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-00C9A7?style=flat-square)
-![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
-
-Autonomous cleaning robot with:
-- 📱 Bluetooth Control System
-- 🚧 Obstacle Detection
-- 🗺️ Path Optimization
-- 📝 Published in JNRID (May 2025)
-
-[🔗 View Project](#)
-
-</td>
-</tr>
-</table>
+| 🚀 Project | 💻 Tech Stack | 🔗 Link |
+|-----------|--------------|---------|
+| **EShopper - E-Commerce Platform** | ASP.NET MVC, SQL Server, Bootstrap | [View →](#) |
+| **Student Management System** | React.js, .NET Web API, EF Core | [View →](#) |
+| **Expense Tracker** | ASP.NET Core MVC, SQL, EF Core | [View →](#) |
+| **Wireless Floor Cleaner Robot** | Arduino, IoT, Bluetooth | [View →](#) |
 
 </div>
 
@@ -243,12 +206,12 @@ Autonomous cleaning robot with:
 
 <div align="center">
 
-| Certification | Provider | Year |
-|--------------|----------|------|
-| 🎯 DOT NET Full Stack | Java by Kiran | 2024 |
-| ☕ Full Stack Java | Capgemini | 2024 |
-| ⚛️ React JS | Infosys | 2024 |
-| 🌐 Internet of Things | NPTEL - IIT Kanpur | 2024 |
+| 🏆 Certification | 🏢 Provider | 📅 Year |
+|-----------------|-----------|---------|
+| **DOT NET Full Stack** | Java by Kiran - Pune | 2024-25 |
+| **Full Stack Java** | Capgemini | 2024 |
+| **React JS Certificate** | Infosys | 2024 |
+| **Internet of Things** | NPTEL - IIT Kanpur | 2024 |
 
 </div>
 
@@ -260,22 +223,19 @@ Autonomous cleaning robot with:
 
 | 🏆 Achievement | 📅 Date | 🎉 Details |
 |---------------|--------|-----------|
-| 📝 **Research Publication** | May 2025 | Published paper on "Wireless Floor Cleaner Robot" in JNRID |
-| 🥈 **Quiz Competition** | July 2024 | 2nd Prize in Civista Quiz Competition |
-| 🏆 **Smart India Hackathon** | June 2023 | Winner at Intra-College Level |
+| 📝 **Research Publication** | May 2025 | Published "Wireless Floor Cleaner Robot" in JNRID |
+| 🥈 **Quiz Competition** | July 2024 | 2nd Prize - Civista Quiz Competition (Team Lead) |
+| 🏆 **Smart India Hackathon** | June 2023 | Winner - Intra-College Level |
 | 🎓 **NPTEL Certification** | 2024 | IoT Course by IIT Kanpur |
 
 </div>
 
 ---
 
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jayesh4090desale&theme=matrix&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
@@ -289,57 +249,47 @@ Autonomous cleaning robot with:
 
 ---
 
-## 🌟 Contribution Heatmap
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/00D9FF/Jayesh4090desale" alt="Jayesh's Github Contribution Heatmap" width="100%" />
-</div>
-
----
-
-## 📫 Let's Connect & Collaborate!
+## 💡 Random Dev Quote
 
 <div align="center">
 
-### 💼 Open to opportunities in:
-**Full Stack Development** | **Software Engineering** | **Cloud Computing** | **Tech Innovation**
-
-<br/>
-
-### 🤝 Looking to collaborate on:
-**Open Source Projects** | **Web Applications** | **Automation Solutions** | **Research Papers**
-
-<br/>
-
-<a href="https://current-portfolio-sable.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio" height="50"/>
-</a>
-
-<br/><br/>
-
-### 📧 Contact Me:
-<a href="mailto:jayeshrcpit2003@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/jayesh-desale-99533b273">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
 ---
 
+## 📫 Let's Connect!
+
 <div align="center">
 
-### 💖 Thanks for Visiting! 
+### 🤝 **Open to Collaborations & Opportunities**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-**✨ If you like my work, consider starring ⭐ my repositories!**
+<p align="center">
+  <a href="mailto:jayeshrcpit2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jayesh-desale-99533b273">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Jayesh4090desale">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://current-portfolio-sable.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 <br/>
 
-![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
+### 💼 **Seeking Opportunities In:**
+**Full Stack Development** • **Software Engineering** • **Industrial Automation** • **Robotics & IoT**
+
+<br/>
+
+### ⭐ **If you like my work, consider starring my repositories!**
+
+<br/>
 
 **Made with ❤️ by Jayesh Desale**
 
