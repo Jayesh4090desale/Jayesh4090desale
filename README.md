@@ -283,13 +283,8 @@ Autonomous cleaning robot with:
 
 ---
 
-## 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jayesh4090desale&theme=react-dark&area=true&hide_border=true)
 
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/Jayesh4090desale/Jayesh4090desale/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
