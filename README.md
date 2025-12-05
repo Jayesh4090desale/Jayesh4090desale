@@ -101,7 +101,7 @@ const jayesh = {
 
 ### 💻 Code Dot Solution, Pune  
 **Intern – .NET Developer**  
-*Jan 2025 – Mar 2025*  
+*July 2024 –  Des 2024*  
 - Developed modules using ASP.NET Core MVC  
 - Built a **Personal Expense Tracker** with CRUD (SQL + EF Core)  
 - Worked with API integration & MVC architecture  
